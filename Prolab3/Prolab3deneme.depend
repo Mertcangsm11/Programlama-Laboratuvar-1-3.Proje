@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1609684510 source:c:\users\mertcan\desktop\mertcan Üni\c projeler\prolab3deneme\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1609684510 source:c:\users\mertcan\desktop\mertcan Üni\c projeler\prolab3\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
